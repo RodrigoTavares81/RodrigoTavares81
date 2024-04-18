@@ -22,7 +22,7 @@
 - AWS Certified
 
 ### 🥚 Easter Eggs 🥚
-- 🎮 Viciado em Warzone e Fifa
+- 🎮 Viciado em ForHonor e Fifa
 - 🎖️ Ex-Militar da Força Aérea Brasileira
 - 👹 Apaixonado por HQ's de horror
 - 🎲 Amante de Boardgames modernos "Vamos jogar tiranos?"
