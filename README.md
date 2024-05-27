@@ -6,8 +6,8 @@
 - 🕒 5 anos e meio de experiência 
 
 ### 📚 Conhecimentos 📚
-- Android Development
-- Backend Development (Kotlin Spring Boot)
+- Android SDK
+- Spring Boot
 - Jetpack Compose
 - Kotlin
 - Java
